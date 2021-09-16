@@ -1,1 +1,3 @@
-# Reabov_Veaceslav_w-1841
+Nume: Reabov
+Prenume: Veaceslav
+Grupa: W-1841
